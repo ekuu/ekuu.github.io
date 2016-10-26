@@ -1,23 +1,23 @@
 # Site settings
-name: John Smith
-description: "Nifty little description"
+name: 红叶
+description: "一个小博客"
 url: ""
 
 
 # Delete the lines you don't need
-email: your-email@example.domain
-github_username:  dashingcode
-twitter_username: your_twitter_username_goes_here
-medium_username:  your_medium_username_goes_here
+email: lpywy728394@163.com
+github_username:  orccn
+#twitter_username: your_twitter_username_goes_here
+#medium_username:  your_medium_username_goes_here
 # If you don't have a blog page delete the next line
 blog_url: "/blog"
 
 
 avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
+avatar_img_path: "imgs/avatar.jpg"
 # You can link to your GitHub image. That way it will get updated 
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
 
 
 front_img: yes
